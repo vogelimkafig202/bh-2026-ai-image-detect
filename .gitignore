@@ -1,0 +1,16 @@
+# Jupyter缓存
+__pycache__/
+*.ipynb_checkpoints/
+# 模型权重、输出结果
+*.pth
+*.pt
+*.csv
+# 图片、压缩包（不上传数据集）
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.rar
+# 系统缓存
+.DS_Store
+Thumbs.db

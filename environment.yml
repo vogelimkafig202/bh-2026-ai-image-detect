@@ -1,0 +1,8 @@
+name: ai-detect
+dependencies:
+  - python=3.12
+  - torch
+  - torchvision
+  - pillow
+  - matplotlib
+  - pip
